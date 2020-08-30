@@ -26,7 +26,7 @@ int main(void)
    if (a!=0) //a es diferente de 0.
    {
         d=pow(b,2)-4*a*c;
-        if (d==0) //d es diferente de 0.
+        if (d==0) //d es igual a 0.
             cout<<"Solución única: "<<-b/(2*a);
         else 
         
